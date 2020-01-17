@@ -1,0 +1,11 @@
+#Pillow
+#mysqlclient
+#psycopg2-binary
+#Django
+#djangorestframework
+#django-crispy-forms
+#django-storages
+#django-redis
+#gunicorn
+#boto3
+##opencensus-ext-django

@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  app:
+    build: .
+    image: my-python-app-local:latest
+    #command: python --version
+    volumes:
+      - .:/usr/src/app
